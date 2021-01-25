@@ -1,7 +1,7 @@
 function setup() {
   createCanvas(windowWidth, windowHeight);
   angleMode(DEGREES);
-  frameRate(40);
+  frameRate(45);
   background('white');
 
 }
